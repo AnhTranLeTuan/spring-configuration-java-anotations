@@ -3,7 +3,7 @@
 ## Description
 Experiment with concepts of inversion of control and dependency injection by the combination of the XML file and annotations. In this project, we can see how:
 * Classes will be marked as beans
-* Activate component scan (/spring-core-configuration-java-anotations/src/main/java/configurationFile.xml)
+* Activate component scan
 * Inject constants or objects into specific variables  
 * Retrieve data from the properties file
 
